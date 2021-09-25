@@ -1,0 +1,37 @@
+h1 
+{
+  text-align: center;
+  background: green;
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+p
+{ 
+  text-align: center;
+  color: white;
+  background: green;
+  font-family: serif;
+  font-style: italic;
+  padding: 10px;
+}
+
+vermelho:link{ 
+color :ff0000;
+}
+
+verde:link{ 
+color :00ff00;
+}
+
+rosa:link{ 
+color :ff00ff;
+}
+
+azul:link{ 
+color :0000ff;
+}
+
+p:first-letter{
+  color: lawngreen;
+}
